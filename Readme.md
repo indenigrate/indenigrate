@@ -1,47 +1,54 @@
 <div align="center">
-  <img src="your-header-image.gif" width="600" height="300">
+
+  <h1>👋 Hello, I'm Devansh Soni</h1>
+  
+  <p>A passionate developer from Bhopal. I love building things for the web and exploring new technologies. This profile is a living document of my coding journey!</p>
+
+  <p>
+    <a href="https://linkedin.com/in/devansh-sonii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/indenigrate"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!--     <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  </p> -->
+
 </div>
 
 ---
 
-### 👋 Hi there, I'm Devansh
-
-*I'm a passionate developer who loves building innovative solutions.*
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
 ### 🛠️ My Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,fastapi,docker,aws,gcp,postgres,mongodb&perline=7" />
+  </a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Journey & Stats
+
+<div align="center">
+
+| My GitHub Stats | Top Languages |
+| :---: | :---: |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" alt="github streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-### 🕰️ My WakaTime Stats
-
+###  coding Activity
 ---
 
-### 📝 My Latest Blog Posts
+### 🚀 Latest Activity on GitHub
+---
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  </p>
+</div>
