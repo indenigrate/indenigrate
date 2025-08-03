@@ -1,0 +1,38 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Profile README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # This step updates the WakaTime stats
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "false" # Set to "true" to show project stats
+          SHOW_EDITORS: "false"
+          SHOW_TIMEZONE: "true"
+          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_LOC_CHART: "false"
+          # The following are the start and end markers in your README
+          SECTION_NAME: "WAKA-STATS"
+
+      # This step updates your latest GitHub activity
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Using the GitHub feed instead of a blog RSS feed
+          feed_list: "https://github.com/indenigrate.atom"
+          max_post_count: 5 # Number of items to show
+          # The following are the start and end markers in your README
+          comment_tag_name: "LATEST-ACTIVITY"
