@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-sonii)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/indenigrate)
+[![Resume](https://img.shields.io/badge/Resume-PDF-E34133?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/indenigrate/Resume/blob/master/Devansh_Soni_Resume_Tech.pdf)
+
 
 </div>
 
